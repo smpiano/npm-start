@@ -1,0 +1,22 @@
+{
+  "name": "npm-starter",
+  "version": "1.0.0",
+  "description": "This is my first package.json and npm init project crude",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/smpiano/npm-start.git"
+  },
+  "author": "smpiano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smpiano/npm-start/issues"
+  },
+  "homepage": "https://github.com/smpiano/npm-start",
+  "dependencies": {
+    "once": "^1.3.0"
+  }
+}
